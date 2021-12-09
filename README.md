@@ -1,6 +1,6 @@
 # HOWTO Generate Test Data
 
-This is a short guide demonstrating how to use synth to generate test data. 
+This is a short guide demonstrating how to use [synth](https://www.getsynth.com/) to generate test data. 
 The intended purpose is to generate mock data against an existing database schema.
 
 ### Install synth
